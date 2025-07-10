@@ -3,4 +3,4 @@ yt-dlp
 ffmpeg-python
 numpy<2
 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-
+-m pip install -U --force-reinstall git+https://github.com/CarlGao4/demucs.git@4.1.0-update
